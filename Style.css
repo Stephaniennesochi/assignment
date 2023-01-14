@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+image{
+    
+}
+button{ border-width: 2px;
+border-color: black;
+}
+.paper{
+    
+    background-color: gainsboro
+}
+.pen{
+    
+    background-color: black;
+}
+.pencil{
+
+background-color: grey;
+
+}
+
+.ruler{
+
+background-color:gainsboro;
+
+
+}
+.eraser{
+
+
+background-color: burlywood;
+
+}
